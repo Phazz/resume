@@ -8,7 +8,7 @@
 
 ## 🧭 Professional Summary
 
-**Deputy CTO** | **Head of Engineering** with 15+ years scaling engineering organizations and building resilient systems. Led teams of 200+ engineers across 20 countries. Expert in enterprise observability, microservice architecture, Software Engineering and AI-driven development workflows. Currently frantically using AI tools to improve my and our teams workflows.
+**Deputy CTO** | **Head of Engineering** with 15+ years scaling engineering organizations and building resilient systems. Led teams of engineers across 3 countries. Expert in enterprise observability, microservice architecture, Software Engineering and AI-driven development workflows. Currently frantically using AI tools to improve my and our teams workflows.
 
 ---
 
@@ -26,85 +26,72 @@
 ### **Domain Leader Reliability & Performance** | ADEO Services
 *September 2020 - February 2023 (2 years 6 months)*
 
-- Providing Observability strategy supported by a strong team with experience of production at enterprise scale
-- Providing ITSM strategy supported by an experienced team, including incident, change, problem and continuous improvement processes
-- Managing a team of 30 people focused on serving thousands of users in 20 countries
-- SLO propagandist in the company, influencing a culture of Operational Excellence
-- Modern Observability stack deployment at enterprise scale (Datadog, Dynatrace, Prometheus, PagerDuty...)
+- **Enterprise Observability & ITSM:** Provided comprehensive observability and ITSM strategies, supported by experienced teams, to manage production at an enterprise scale.
+- **Team Leadership:** Managed a team of 30 engineers and specialists focused on serving thousands of users across 20 countries.
+- **Operational Excellence Advocacy:** Championed the adoption of Service Level Objectives (SLOs) across the company to foster a culture of operational excellence.
+- **Technology Implementation:** Led the deployment of a modern observability stack at enterprise scale, including Datadog, Dynatrace, Prometheus, and PagerDuty.
 
 ### **Product Owner** | Leroy Merlin
 *June 2019 - August 2020 (1 year 3 months) | Russia*
 
-- Building realtime stock calculation for Leroy Merlin Russia, one of the top retailers in Russia and worldwide
-- 100+ stores in Russia, 35K+ employees in Russia, top of the list in DIY online
-- Using battle-hardened and relevant stack: Debezium, Kafka, Java, Kstream, Druid, MariaDB, Spark, Superset, Hadoop
-- Bringing together a top team of talented and reliability-focused engineers
+- **Real-Time Inventory System:** Led the development of a real-time stock calculation system for Leroy Merlin Russia, one of the country's top retailers.
+- **High-Impact Scale:** Delivered a solution supporting over 100 stores and 35,000 employees for a leading DIY e-commerce platform.
+- **Modern Technology Stack:** Utilized a robust, event-driven architecture with Debezium, Kafka, Java, Kstream, Druid, and Spark.
+- **Team Building:** Assembled and mentored a high-performing team of talented, reliability-focused engineers.
 
 ### **IT Project Director** | Leroy Merlin
 *June 2018 - June 2019 (1 year 1 month) | Moscow, Russian Federation*
 
-- Helping Leroy Merlin in its omnichannel transformation using exciting technologies
-- Championing and building a community around SRE
+- **Omnichannel Transformation:** Drove key IT projects to support Leroy Merlin's transition to an omnichannel retail model.
+- **SRE Advocacy:** Pioneered and cultivated a Site Reliability Engineering (SRE) community within the organization to improve system reliability and performance.
 
 ### **CPO** | all24
 *June 2017 - June 2018 (1 year 1 month) | Bangkok Metropolitan Area, Thailand*
 
-- Building the last mile delivery experience Thai consumers deserve
+- **Product Leadership:** Led the product strategy and development for a last-mile delivery platform tailored to the Thai consumer market.
 
 ### **Co-Founder** | Pample Group
 *October 2016 - June 2018 (1 year 9 months) | Bangkok Metropolitan Area, Thailand*
 
-- Pample is a data-driven Influencer Marketing platform matching Brands and Influencers
-- Customers include Titan, Accor Hotel, Orami, Lazada and more
+- **Platform Development:** Co-founded and built Pample, a data-driven influencer marketing platform connecting brands with influencers.
+- **Business Development:** Secured major clients including Titan, Accor Hotel, Orami, and Lazada, driving initial company growth.
 
 ### **Regional Director of Project Management Office and Web Development** | aCommerce
 *May 2015 - June 2017 (2 years 2 months) | Bangkok Metropolitan Area, Thailand*
 
-- Built and managed a team of 6 project managers and senior developers
-- Managed portfolio of 15+ e-commerce website projects for large international brands
-- Led a team of incredible high performers that did more with less consistently
-- Setup Continuous Integration pipeline, tests and security scans
-- Setup Project Management KPI to keep budget in control
-- Led documentation initiative to share requirements, schema, integration specifications, project charters
-- Built and signed successful partnerships with Adyen, Magento and Demandware
+- **Team Leadership & Growth:** Built and managed a cross-functional team of 6 project managers and senior developers.
+- **E-commerce Portfolio Management:** Oversaw a portfolio of 15+ e-commerce website projects for large international brands.
+- **Process Improvement:** Implemented project management KPIs to maintain budget control and enhance project delivery predictability.
+- **Strategic Partnerships:** Forged and signed successful partnerships with key technology providers, including Adyen, Magento, and Demandware.
 
 ### **CIO / CTO** | BlueFox International
 *June 2013 - May 2015 (2 years)*
 
-- Employee #2 in the company
-- Built and led a team of 3 developers, 1 IT Manager, 1 IT Technician and 2 project managers/business analysts
-- Scaled company IT systems supporting 300 employees
-- Developed from scratch a CRM, Order Management and Inventory Management SaaS in Ruby on Rails
-- Software used in 7 countries by 300+ people
-- Processed 200K+ orders total, 400K potential customers
-- Setup Marketing and operational dashboards using SaaS on top of internally built data pipeline
+- **Founding Team Member:** Joined as employee #2 and played a pivotal role in scaling the company's technology and operations.
+- **SaaS Development:** Architected and developed a comprehensive CRM, Order Management, and Inventory Management SaaS from scratch using Ruby on Rails running on Heroku.
+- **System Scalability:** The platform successfully scaled to serve 300+ users across 7 countries, processing over 200,000 orders.
+- **Team Building & Leadership:** Built and led a diverse IT team of 7, including developers, IT managers, and business analysts, to support rapid business growth.
 
 ### **IT Director** | Mazars
 *September 2009 - May 2013 (3 years 9 months)*
 
-- Managed Helpdesk Technicians enforcing one hour reaction time
-- Managed developers for in-house developed small scale ERP
-- Salesforce implementation
-- Leveraged web applications to add value at small costs (Basecamp, Zendesk, Zoho, SurveyMonkey, Mailchimp)
-- Deployed Netapp SAN and VMWare cluster (60 virtual servers on 3 hosts)
-- Deployed Microsoft infrastructure: Lync, Exchange, Hyper-V, Sharepoint 2010, DPM, RDS serving 100 users
-- Consulting clients on complex system implementation (>200K€ in 2011)
-- Achieved 15% cost reduction through supplier optimization and 40% printing cost reduction
+- **Infrastructure Modernization:** Deployed a robust Microsoft infrastructure (Lync, Exchange, SharePoint) and a VMWare cluster, virtualizing 60 servers.
+- **Cost Optimization:** Achieved a 15% overall cost reduction through supplier negotiations and a 40% reduction in printing costs.
+- **Service Management:** Managed helpdesk technicians, enforcing a one-hour reaction time SLA, and implemented Salesforce to streamline CRM processes.
+- **Client Consulting:** Generated over €200K in consulting revenue in 2011 by advising clients on complex system implementations.
 
 ### **IT Manager** | Mazars
 *September 2007 - September 2009 (2 years 1 month)*
 
-- Built IT infrastructure and services from scratch
-- Installed Active Directory, DHCP, DNS, Exchange, SQL, File servers
-- Built new server room and standardized hardware/software references
-- Implemented backup plan and user support
-- Developed timesheet software in .NET
+- **Greenfield Infrastructure Setup:** Built the company's entire IT infrastructure from the ground up, including servers, networking, and a new server room.
+- **Core Service Implementation:** Deployed and managed essential services, including Active Directory, Exchange, SQL, and file servers.
+- **Application Development:** Developed a custom timesheet application in .NET to meet internal business requirements.
 
 ### **Electrical Engineer** | Jacquelot
 *September 2005 - September 2007 (2 years 1 month)*
 
-- Developed testing devices for 3D electrical components (Software and Hardware)
-- Electronic card testing, maintenance and quality control
+- **Hardware & Software Development:** Designed and developed custom testing devices (both software and hardware) for 3D electrical components.
+- **Quality Assurance:** Performed electronic card testing, maintenance, and quality control to ensure product reliability.
 
 ---
 
