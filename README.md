@@ -2,7 +2,6 @@
 **Deputy CTO at Adeo** | Ronchin, Hauts-de-France, France
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pierre-lemperiere)
-[![Email](https://img.shields.io/badge/Email-pierre.lemperiere@gmail.com-red?style=flat-square&logo=gmail)](mailto:pierre.lemperiere@gmail.com)
 
 ---
 
