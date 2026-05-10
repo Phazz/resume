@@ -7,7 +7,7 @@
 
 ## 🧭 Professional Summary
 
-Engineering executive who scaled tech organizations from 30 to 500+ across 3 countries. Built enterprise AI adoption programs reaching 1,000+ developers with measurable +30% PR throughput. Track record of establishing engineering governance, career frameworks, and operational excellence cultures in complex multinational environments. Managing <!-- $X -->M+ annual technology budget across infrastructure, tooling, and SaaS vendors.
+Engineering executive who scaled tech organizations from 30 to 500+ across 3 countries. Built enterprise AI adoption programs reaching 1,000+ developers with measurable +30% PR throughput. Track record of establishing engineering governance, career frameworks, and operational excellence cultures in complex multinational environments. Managing 14M+ annual technology budget across infrastructure, tooling, and SaaS vendors.
 
 ---
 
@@ -16,18 +16,18 @@ Engineering executive who scaled tech organizations from 30 to 500+ across 3 cou
 ### **Deputy CTO** | **Head of Engineering** | ADEO Services
 *February 2023 - Present*
 
-- **Head of Engineering, Global Infrastructure Platform:** Leading a 500+ person organization building ADEO's unified application platform, reporting to <!-- CTO/ExCom member name -->
+- **Head of Engineering, Global Infrastructure Platform:** Leading a 500+ person organization building ADEO's unified application platform, reporting to CTO
 - **Technology Governance at Scale:** Established a CNCF-inspired governance model (TOC/SIG) with 200+ active members — drove 160+ strategic technology decisions, accelerating platform convergence across 30+ business units
 - **Enterprise AI Transformation:** Grew GitHub Copilot adoption from 350 to 1,000 DAU in 9 months, delivering +30% PR throughput. Built an active community of 900 developers sharing agents, skills, prompts, and MCP SDKs. Supported by a dedicated team of Senior Engineers
 - **Engineering Excellence:** Federated 30+ Tech Leads around quality standards, DORA metrics, semver compliance, and engineering best practices. Stream Leader of ADEO DevSummit, the company's internal tech conference (1,500 participants)
-- **Vendor Strategy:** Owning <!-- $5-6 -->M annual vendor portfolio — led build-vs-buy evaluations and contract negotiations for observability, AI tooling, and platform infrastructure
-- **Cross-Functional Leadership:** Partnered with Legal on AI procurement frameworks and Open Source governance. Collaborated with Security on OSS compliance. Worked with Finance to build ROI measurement models for Observability SaaS investments
+- **Vendor Strategy:** Owning 3M annual vendor portfolio — led build-vs-buy evaluations and contract negotiations for observability, AI tooling, and platform infrastructure
+- **Cross-Functional Leadership:** Partnered with Legal on AI procurement frameworks and Open Source governance. Collaborated with Security on OSS compliance. Worked with Finance to build ROI measurement models for Observability SaaS investments. Partnering with Product Management to shift to a platform-as-a-product model — introducing internal developer satisfaction surveys, adoption funnels, and feature usage analytics to drive platform investment decisions
 - **Engineering Career Framework:** Designed and implemented IC and Engineering Manager career paths with HR, establishing progression standards and competency frameworks across the organization
 
 ### **Domain Leader Reliability & Performance** | ADEO Services
 *September 2020 - February 2023 (2 years 6 months)*
 
-- **Enterprise Observability & ITSM:** Defined and executed observability and ITSM strategy for production systems serving 20 countries, managing a <!-- $X -->M annual budget across Datadog, Dynatrace, Prometheus, and PagerDuty
+- **Enterprise Observability & ITSM:** Defined and executed observability and ITSM strategy for production systems serving 20 countries, managing a 14M annual budget across Datadog, Dynatrace, Prometheus, and PagerDuty
 - **Operational Excellence at Scale:** Drove adoption of Service Level Objectives across the company — 16K+ SLOs deployed, establishing a measurable reliability culture
 - **Team Leadership:** Managed 30 engineers and specialists. Built the team's hiring pipeline, career development, and technical mentorship programs
 - **Finance Partnership:** Partnered with Finance to measure and demonstrate ROI of observability investments, building the business case for continued SaaS spend
@@ -42,7 +42,7 @@ Engineering executive who scaled tech organizations from 30 to 500+ across 3 cou
 ### **IT Project Director** | Leroy Merlin
 *June 2018 - June 2019 (1 year 1 month) | Moscow, Russian Federation*
 
-- **Omnichannel Transformation:** Drove key IT projects supporting Leroy Merlin's transition to omnichannel retail
+- **Omnichannel Transformation:** Drove key IT projects supporting Leroy Merlin's transition to omnichannel retail (SRE, SLO data pipelines, QA tooling platform)
 - **SRE Advocacy:** Founded and grew the organization's first Site Reliability Engineering community
 
 ---
@@ -88,14 +88,14 @@ Designed custom testing devices (hardware + software) for 3D electrical componen
 ## 🎯 Advisory & Community
 
 - **Board Advisor** | Startup in Energetic Diagnosis space *(January 2026 - Present)*
-- **Stream Leader** | ADEO DevSummit — Internal tech conference, 1,500 participants
+- **Stream Leader** | ADEO DevSummit — Internal tech conference, 1,500 participants since 2022
 
 ---
 
 ## 🎓 Education & Certifications
 
 ### **Education**
-**AFPA Lyon** | Brevet de Technicien Supérieur d'Applications Electroniques  
+**AFPA Lyon** | Technicien Supérieur d'Applications Electroniques  
 *Electronic, Programming (2005)*
 
 ### **Certifications**
