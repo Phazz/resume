@@ -18,22 +18,23 @@
 
 - **Scaled Tech Governance:** Built and managed a technology governance framework with 200+ active members, driving 160+ strategic technology decisions across the Adeo Group using CNCF-inspired governance model (TOC/SIG)
 - **Engineering Excellence Leadership:** Federated 30+ Tech Leads around Engineering Excellence initiatives including semver compliance, software quality standards, engineering best practices, DORA metrics implementation, technical talks, and coding dojos
-- **AI for Developers Program:** Leading enterprise-wide AI adoption program, researching and implementing methodologies from industry leaders and internal teams for both brownfield and greenfield AI integration, supported by a dedicated team of Senior Engineers. Bringing together a diverse team of champions to train our teams on up to date practices, tips and tricks to better use AI in their daily work.
+- **AI for Developers Program:** Leading enterprise-wide AI adoption program, researching and implementing methodologies from industry leaders and internal teams for both brownfield and greenfield AI integration, supported by a dedicated team of Senior Engineers. Bringing together a diverse team of champions to train our teams on up to date practices, tips and tricks to better use AI in their daily work.  
+From 350 DAU to 1000 DAU of Github Copilot in 9 months through enablement, demos and community work. +30% PR throughput. Sharing agents, skills, prompts, MCP SDK in an active community of 900 developers in Slack.
 - **Global Platform Development:** Managing Global Programs including the development of a unified Global Application Platform with world-class engineering talent
-- **Engineering Career Framework:** Collaborated with HR to design and implement comprehensive Software Engineering career paths for both Individual Contributors (IC) and Engineering Managers, establishing clear progression standards and competency frameworks
+- **Engineering Career Framework:** Collaborated with HR to design and implement comprehensive Software Engineering career paths for both Individual Contributors (IC) and Engineering Managers, establishing clear progression standards and competency frameworks.
 
 ### **Domain Leader Reliability & Performance** | ADEO Services
 *September 2020 - February 2023 (2 years 6 months)*
 
 - **Enterprise Observability & ITSM:** Provided comprehensive observability and ITSM strategies, supported by experienced teams, to manage production at an enterprise scale.
 - **Team Leadership:** Managed a team of 30 engineers and specialists focused on serving thousands of users across 20 countries.
-- **Operational Excellence Advocacy:** Championed the adoption of Service Level Objectives (SLOs) across the company to foster a culture of operational excellence.
+- **Operational Excellence Advocacy:** Championed the adoption of Service Level Objectives (SLOs) across the company to foster a culture of operational excellence. (16K+ SLO deployed)
 - **Technology Implementation:** Led the deployment of a modern observability stack at enterprise scale, including Datadog, Dynatrace, Prometheus, and PagerDuty.
 
 ### **Product Owner** | Leroy Merlin
 *June 2019 - August 2020 (1 year 3 months) | Russia*
 
-- **Real-Time Inventory System:** Led the development of a real-time stock calculation system for Leroy Merlin Russia, one of the country's top retailers.
+- **Real-Time Inventory System:** Led the development of a real-time stock calculation system for Leroy Merlin Russia, one of the country's top retailers. SLO 99.99% availability, 90% Stock Events processed and stored under 1 min, 4K RPS API requirement.
 - **High-Impact Scale:** Delivered a solution supporting over 100 stores and 35,000 employees for a leading DIY e-commerce platform.
 - **Modern Technology Stack:** Utilized a robust, event-driven architecture with Debezium, Kafka, Java, Kstream, Druid, and Spark.
 - **Team Building:** Assembled and mentored a high-performing team of talented, reliability-focused engineers.
@@ -122,7 +123,7 @@
 ### **Certifications**
 - **Cloud Digital Leader Certification**
 - **Prosci® Certified Change Practitioner**
-- **Machine Learning**
+- **Machine Learning - Andrew Ng**
 - **The Data Scientist's Toolbox**
 
 ---
